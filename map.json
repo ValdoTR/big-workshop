@@ -610,7 +610,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"This map is perfect for a big event in which you want to organize workshop sessions for many people. Enjoy the big lobby with a central Help Desk and the cafeteria for a little break!\nYou should be able to seat 200 people so heat up the coffee machine!"
+         "value":"Suitable up to 200 users.\n\nWith 10 rooms for meetings to be hosted for several people and a main lobby for everyone to meet during the breaks this is the perfect map for the internal events of your company. Just place your logo and your institutional materials and make it yours!"
         }, 
         {
          "name":"mapImage",
@@ -633,7 +633,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
