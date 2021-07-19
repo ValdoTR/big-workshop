@@ -625,7 +625,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Big workshop"
+         "value":"Big Internal Event"
         }, 
         {
          "name":"script",
