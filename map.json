@@ -610,7 +610,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Suitable up to 200 users.\n\nThis map is perfect for a big event in which you want to organize workshop sessions for many people. Enjoy the big lobby with a central Help Desk and the cafeteria for a little break!\nHeat up the coffee machine!"
+         "value":"Suitable for up to 200 users.\n\nThis map is perfect for a big event in which you want to organize workshop sessions for many people. Enjoy the big lobby with a central Help Desk and the cafeteria for a little break!\nSo heat up the coffee machine!"
         }, 
         {
          "name":"mapImage",
